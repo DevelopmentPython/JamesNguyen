@@ -4,4 +4,6 @@ excerpt: "Built an interactive chess game using Python and tkinter. Implemented 
 collection: projects
 ---
 
-**GitHub:** https://github.com/DevelopmentPython/chess
+<a href="https://github.com/DevelopmentPython/chess">
+View on GitHub
+</a>
