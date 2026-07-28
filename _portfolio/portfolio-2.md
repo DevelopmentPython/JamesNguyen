@@ -4,4 +4,5 @@ excerpt: "Developed a console-based Tic-Tac-Toe game supporting two-player turn-
 collection: projects
 ---
 
-
+**GitHub:**  
+https://github.com/DevelopmentPython/tictactoe
